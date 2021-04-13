@@ -1,5 +1,5 @@
 # 卒業制作情報共有用リポジトリ(2020年度入学生)
-- [シラバス](https://drive.google.com/file/d/12V9ya-LBxBu0jzWFV4fUjEHzhmQhkqoU/view?usp=sharing)
+- [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/dyf-fsns-kou)
 
