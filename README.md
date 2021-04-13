@@ -30,5 +30,5 @@
 - 2回目：自己紹介と方向性の発表
 
 ### 講義資料
-- [こちら]()
+- [こちら](https://github.com/datgm20/sotsusei/blob/main/01.md)
 
