@@ -1,11 +1,19 @@
-[Slack招待](https://join.slack.com/t/datgm20/shared_invite/zt-p6x364a9-2CUdmnTBudKZ0AFvt0Nirw)
-
 # 卒業制作情報共有用リポジトリ(2020年度入学生)
 - [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
 
 ## 参考URL
+
+## 2週目
+### 連絡
+- 一先ずグループは現状のまま進めます
+- [Live2D Creative Studio 採用募集説明会](https://www.live2d.jp/news/cs_seminar_202104/?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=7a97c57abb-EMAIL_CAMPAIGN_2018_02_22_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-7a97c57abb-17250555)
+- グループC
+
+### 予定
+- 1回目　企画についてヒアリングし、一人一人の作業予定を確認
+- 2回目　作業と進捗報告
 
 ## 1週目
 ### ガイダンス
