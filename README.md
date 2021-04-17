@@ -14,13 +14,8 @@
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
-- [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
-- [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
-- [Unity Japan. Unity道場2D編 ライティングで差をつけろ！（6月9日号）](https://youtu.be/Km_4NQPk59s)
 - [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
 - [Pinterest](https://www.pinterest.jp/)
-- [XR-HU3. パーティクル徹底解説！基本的なモジュールの使用方法から応用例まで](https://xr-hub.com/archives/3522)
-- [STYLY. パーティクルを覚える](https://styly.cc/ja/tips/unity-introduction-particle/)
 - https://dotpict.net/
 
 ## 開発関連
