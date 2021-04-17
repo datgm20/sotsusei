@@ -3,8 +3,49 @@
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
 
-## 参考URL
-- [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
+# 参考URL
+
+## グラフィック関連
+- MayaからUnityに読み込む
+  - [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
+  - [Maya - Unity フロー ゲーム向け機能紹介](https://area.autodesk.jp/movie/unity-autodesk-game-pipeline/14.html)
+    - モデルの足元に注目！！キャラは、足元を原点にすること
+  - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
+  - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
+- [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
+- [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
+- [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
+- [Unity Japan. Unity道場2D編 ライティングで差をつけろ！（6月9日号）](https://youtu.be/Km_4NQPk59s)
+- [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
+- [Pinterest](https://www.pinterest.jp/)
+- [XR-HU3. パーティクル徹底解説！基本的なモジュールの使用方法から応用例まで](https://xr-hub.com/archives/3522)
+- [STYLY. パーティクルを覚える](https://styly.cc/ja/tips/unity-introduction-particle/)
+- https://dotpict.net/
+
+## 開発関連
+- [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/dat19/gp1/blob/master/github-unity.md)
+- [GitHubの自分のプロジェクトが壊れた場合](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
+
+## 音関連
+- [PEKO STEP. 効果音作成Web](https://www.peko-step.com/tool/soundeffect/)
+- [効果音作成ツール Bfxr](https://www.bfxr.net/)
+  - [Bfxrの記事](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
+
+## ポートフォリオ
+- [デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
+- [た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.com/jyushok/n/n39429686354a)
+
+
+# 素材例
+- [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
+- [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
+
+
+# 公開ページ
+- https://dat19.github.io/works/
+
 
 ## 2週目
 ### 連絡
