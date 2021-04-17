@@ -12,6 +12,7 @@
     - モデルの足元に注目！！キャラは、足元を原点にすること
   - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
+- [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
