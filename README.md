@@ -4,6 +4,7 @@
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
 
 ## 参考URL
+- [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
 
 ## 2週目
 ### 連絡
