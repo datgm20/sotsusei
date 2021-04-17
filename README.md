@@ -35,7 +35,7 @@
 
 # 素材例
 - [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
-- [ぐらびぃ](https://github.com/dat19/sotsusei/Resources/Graviy.unitypackage) > View rawをクリック
+- [ぐらびぃ](https://github.com/dat19/sotsusei/blob/master/Resources/Graviy.unitypackage) > View rawをクリック
 
 
 # 公開ページ
