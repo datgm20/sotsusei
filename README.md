@@ -51,6 +51,10 @@
 ### 予定
 - 1回目
   - Trelloの準備
+  - 実際の企画の流れの参考
+    - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
+    - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+    - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
   - 企画概要例を紹介
     - Slackのgeneralチャンネルにリンクあり
     - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
