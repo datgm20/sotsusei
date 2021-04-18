@@ -50,9 +50,14 @@
 - グループC
 
 ### 予定
-- 1回目　企画についてヒアリングし、一人一人の作業予定を確認
-  - PR画面を考える 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
+- 1回目
+  - Trelloの準備
+  - 企画概要例を紹介
+    - Slackのgeneralチャンネルにリンクあり
+    - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
+  - 企画についてヒアリングし、各自の作業を確認
 - 2回目　作業と進捗報告
+  - 作業と最後にGoogle Meetで代表者が成果報告
 
 ## 1週目
 ### ガイダンス
