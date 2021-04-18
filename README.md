@@ -62,6 +62,7 @@
     - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
   - 企画概要例を紹介
     - Slackのgeneralチャンネルにリンクあり
+    - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
     - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
   - データ作成の手引き
     - 命名規則 [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
