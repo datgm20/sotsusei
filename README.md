@@ -47,7 +47,6 @@
 ### 連絡
 - 一先ずグループは現状のまま進めます
 - [Live2D Creative Studio 採用募集説明会](https://www.live2d.jp/news/cs_seminar_202104/?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=7a97c57abb-EMAIL_CAMPAIGN_2018_02_22_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-7a97c57abb-17250555)
-- グループC
 
 ### 予定
 - 1回目
