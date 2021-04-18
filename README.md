@@ -5,6 +5,11 @@
 
 # 参考URL
 
+## 企画
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
+- [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+- [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
+
 ## グラフィック関連
 - MayaからUnityに読み込む
   - [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
