@@ -2,7 +2,7 @@
 - [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
-- [参考URL]()
+- [参考URL](https://github.com/datgm20/sotsusei/tree/main)
 
 
 ## 2週目
