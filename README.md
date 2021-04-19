@@ -10,24 +10,28 @@
 - 一先ずグループは現状のまま進めます
 - [Live2D Creative Studio 採用募集説明会](https://www.live2d.jp/news/cs_seminar_202104/?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=7a97c57abb-EMAIL_CAMPAIGN_2018_02_22_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-7a97c57abb-17250555)
 
-### 予定
-- 1回目
-  - Trelloの準備
-  - 実際の企画の流れの参考
-    - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
-    - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
-    - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
-  - 企画概要例を紹介
-    - Slackのgeneralチャンネルにリンクあり
-    - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
-    - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
-  - データ作成の手引き
-    - 命名規則 [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-    - 3Dデータ [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
-    - 2Dデータ [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
-  - 企画についてヒアリングし、各自の作業を確認
-- 2回目　作業と進捗報告
-  - 作業と最後にGoogle Meetで代表者が成果報告
+### 1日目予定
+- Trelloの準備
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
+  - **ゲームデザイナー**タブで制作の心得を得る。「18 情熱」「100 愛情」「102 ドキュメンテーション」
+  - 企画の中身を考えるにあたっては**体験**が参考になる
+- 企画の参考
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
+- 企画概要例を紹介
+  - Slackのgeneralチャンネルにリンクあり
+  - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
+  - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
+- データ作成の手引き
+  - 命名規則 [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+  - 3Dデータ [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
+  - 2Dデータ [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
+- 企画についてヒアリングし、各自の作業を確認
+
+### 2日目予定
+- 作業と進捗報告
+- 作業と最後にGoogle Meetで代表者が成果報告
 
 ## 1週目
 ### ガイダンス
