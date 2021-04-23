@@ -12,14 +12,6 @@
 - [集英社ゲームクリエイターズCAMP](https://game-creators.camp/)
 
 ### 1日目予定
-#### 講義
-- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
-  - **ゲームデザイナー**タブで制作の心得を得る。「18 情熱」「100 愛情」「102 ドキュメンテーション」
-  - 企画の中身を考えるにあたっては**体験**が参考になる
-- 企画の参考
-  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
-  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
-  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 
 #### Trelloの準備
 - チーム制作をする際に、仕様や設定、作業リスト、作業担当、締め切りなどを管理するためのサービス
@@ -57,8 +49,14 @@
 - Unity 2019.4.11f1
 
 
-
-#### 講義続き
+#### 講義
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
+  - **ゲームデザイナー**タブで制作の心得を得る。「18 情熱」「100 愛情」「102 ドキュメンテーション」
+  - 企画の中身を考えるにあたっては**体験**が参考になる
+- 企画の参考
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - 企画概要例を紹介
   - Slackのgeneralチャンネルに2019年度の作品の参考リンク
   - [#TokyoIndies on Twitter](https://twitter.com/hashtag/TokyoIndies?src=hashtag_click&f=live)
