@@ -2,7 +2,7 @@
 - [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
-- [参考URL](https://github.com/datgm20/sotsusei/tree/main)
+- [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 
 
 ## 2週目
@@ -48,6 +48,14 @@
     - Checkが完了したらこのリストに移して作業完了となる
     - チェックすることがない作業は、直接このリストに動かしてもよい
 - Slackは連絡。Trelloは作業に関する情報の整理と共有
+
+### 決まったことはTrelloにメモ
+- Infoリストに基本仕様カードを作って、説明に以下を書いておく
+- 展示先：DATフェスタ
+- プラットフォームはWindows
+- 画面は1920x1080ピクセル
+- Unity 2019.4.11f1
+
 
 
 #### 講義続き
