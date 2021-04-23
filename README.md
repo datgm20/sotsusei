@@ -13,6 +13,8 @@
 
 ### 1日目予定
 
+- [企画概要例](https://docs.google.com/document/d/1ixOE2MyFd6_fndl7IUUph1o7xUZaAiu_Z_prbs5mtv0/)
+
 #### Trelloの準備
 - チーム制作をする際に、仕様や設定、作業リスト、作業担当、締め切りなどを管理するためのサービス
 - https://trello.com/ でGmailでアカウント作成
