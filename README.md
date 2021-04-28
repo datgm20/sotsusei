@@ -3,6 +3,7 @@
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
+- 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
 
 ## 2週目
