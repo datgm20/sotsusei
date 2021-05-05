@@ -6,7 +6,7 @@
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
 ## 3週目
-- [グループCG-C 操作試し版](group_cgc/index.html)
+- [グループCG-C 操作試し版](group_cgc/README.md)
 
 ### 予定
 - 各チームについて聞き取り。作業リストと担当割り振り、各自の個別目標の設定
