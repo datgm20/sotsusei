@@ -1,6 +1,6 @@
 # グループCG C
 
-[操作確認版](./webgl/index.html)
+[操作確認版](https://datgm20.github.io/sotsusei/group_cgc/webgl/index.html)
 
 ## 操作確認版
 ### 操作
