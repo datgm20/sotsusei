@@ -1,5 +1,3 @@
-[slack招待](https://join.slack.com/t/datgm20/shared_invite/zt-p6x364a9-2CUdmnTBudKZ0AFvt0Nirw)
-
 # 卒業制作情報共有用リポジトリ(2020年度入学生)
 - [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
