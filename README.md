@@ -5,10 +5,18 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
+## 4週目
+- [ランゲームのチュートリアルアセット](https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901?locale=ja-JP)
+  - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
+
+### 予定
+- 各チーム、作業を進める
+- 金曜日の最後に進捗報告
+
 ## 3週目
 - [グループCG-C 操作試し版](group_cgc/README.md)
 
-### 予定
+### 内容
 - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
   - 上記を元に各チームに聞き取り。作業リストと担当割り振り、各自の個別目標の設定
 - 金曜日の最後に進捗報告
