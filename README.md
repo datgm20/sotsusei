@@ -11,6 +11,9 @@
   - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
 
 ### 予定
+- 各チーム、作業を進める
+- 5/28(金)に進捗発表
+
 ## 3週目
 - [グループCG-C 操作試し版](group_cgc/README.md)
 
