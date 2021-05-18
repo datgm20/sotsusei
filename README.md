@@ -2,6 +2,7 @@
 - [シラバス](https://drive.google.com/file/d/1OscKRckGEShaKAr6ub7L2oVPcwJbAZ9F/view?usp=sharing)
 - [Slack](https://datgm20.slack.com)
 - [質問・報告](https://meet.google.com/wzp-yrcx-drx)
+- 座席 [水曜日](https://docs.google.com/spreadsheets/d/1TCRjLMO1EkNExaN9sE-NU6Bd8xIeOOQs0jgOcvCeVKc/) / [金曜日午前](https://docs.google.com/spreadsheets/d/1TCRjLMO1EkNExaN9sE-NU6Bd8xIeOOQs0jgOcvCeVKc/) / [金曜日午後](https://docs.google.com/spreadsheets/d/1TCRjLMO1EkNExaN9sE-NU6Bd8xIeOOQs0jgOcvCeVKc/)
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
