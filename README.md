@@ -13,7 +13,9 @@
 ### 予定
 - GitHub Desktopの更新と設定をしたいので起動しておいてください
 - 各チーム、作業を進める
-- 5/28(金)に進捗発表
+- 5/28(金)に以下についてTrelloに書き出して発表
+  - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
+  - TrelloのBacklogリストに思いつく限りの作業のカードを追加
 
 ## 3週目
 - [グループCG-C 操作試し版](group_cgc/README.md)
