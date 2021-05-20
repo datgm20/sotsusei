@@ -11,7 +11,6 @@
   - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
 
 ### 予定
-- GitHub Desktopの更新と設定をしたいので起動しておいてください
 - 各チーム、作業を進める
 - 5/28(金)に以下についてTrelloに書き出して発表
   - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
