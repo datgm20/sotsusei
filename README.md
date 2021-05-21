@@ -10,11 +10,12 @@
 - [ランゲームのチュートリアルアセット](https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901?locale=ja-JP)
   - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
 
-### 予定
+### 内容
 - 各チーム、作業を進める
-- 5/28(金)に以下についてTrelloに書き出して発表
+- 5/28(金)に以下についてTrelloに書き出す
   - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
   - TrelloのBacklogリストに思いつく限りの作業のカードを追加
+- A1, A2, Bは6/2(水)1コマ目、Cは6/4(金)1コマ目に発表とヒアリング
 
 ## 3週目
 - [グループCG-C 操作試し版](group_cgc/README.md)
