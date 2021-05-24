@@ -6,6 +6,10 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
+## 5週目
+### 話題
+- [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
+
 ## 4週目
 - [ランゲームのチュートリアルアセット](https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901?locale=ja-JP)
   - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
