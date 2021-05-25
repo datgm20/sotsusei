@@ -10,6 +10,14 @@
 ### 話題
 - [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
 
+### 予定
+- 各チーム、作業を進める
+- 5/28(金)いっぱいで、以下についてTrelloにまとめる
+  - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
+  - TrelloのBacklogリストに思いつく限りの作業のカードを追加
+- A1, A2, Bは6/2(水)1コマ目、Cは6/4(金)1コマ目に発表とヒアリング
+
+
 ## 4週目
 - [ランゲームのチュートリアルアセット](https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901?locale=ja-JP)
   - [チュートリアルドキュメント(英語)](https://learn.unity.com/tutorial/mobile-development-techniques/?language=en&tab=live#5c7f8528edbc2a002053b4ab)
