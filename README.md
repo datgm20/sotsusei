@@ -17,6 +17,17 @@
   - TrelloのBacklogリストに思いつく限りの作業のカードを追加
 - A1, A2, Bは6/2(水)1コマ目、Cは6/4(金)1コマ目に発表とヒアリング
 
+### 6/2, 6/4の発表形式
+- Google Meetを使って画面を映して、着席している場所で発表
+- 発表者は一人でもチームで割り振っても良い
+- 発表時間は10分程度(短い分には問題ない)
+- 発表内容は自由
+- 1チーム分の発表の流れ
+  - Google Meetで発表者の画面を共有
+  - チーム主導で10分以内の発表
+  - 質疑応答
+  - 次のチームへ
+
 
 ## 4週目
 - [ランゲームのチュートリアルアセット](https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901?locale=ja-JP)
