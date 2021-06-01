@@ -15,6 +15,8 @@
 - 開始後30分から発表開始
 - 発表後は作業を進めながら、開発項目、作業スケジュール、各自の担当などの確認
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
+- [フリー素材の利用について](https://docs.google.com/document/d/1JVCJJNQnAm15BwTeu-ufamN7OYzCEj5FGk4ts0mvIrI/)
+
 
 ### 発表形式
 - [Google Meet](https://meet.google.com/wzp-yrcx-drx)を使って画面を映して、着席している場所で発表
