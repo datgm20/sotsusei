@@ -6,19 +6,16 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
-## 5週目
+## 6週目
 ### 話題
 - [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
 
 ### 予定
-- 各チーム、作業を進める
-- 5/28(金)いっぱいで、以下についてTrelloにまとめる
-  - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
-  - TrelloのBacklogリストに思いつく限りの作業のカードを追加
-- A1, A2, Bは6/2(水)1コマ目、Cは6/4(金)1コマ目に発表とヒアリング
+- 開始後30分から発表開始
+- 発表後は作業を進めながら、開発項目、作業スケジュール、各自の担当などの確認
 
 ### 6/2, 6/4の発表形式
-- Google Meetを使って画面を映して、着席している場所で発表
+- [Google Meet](https://meet.google.com/wzp-yrcx-drx)を使って画面を映して、着席している場所で発表
 - 発表者は一人でもチームで割り振っても良い
 - 発表時間は10分程度
   - 短い分には問題ない
@@ -29,6 +26,18 @@
   - チーム主導で10分以内の発表
   - 質疑応答
   - 次のチームへ
+
+
+
+## 5週目
+
+### 内容
+- 各チーム、作業を進める
+- 5/28(金)いっぱいで、以下についてTrelloにまとめる
+  - [企画の具体的な話し合いととりまとめ](https://github.com/datgm20/sotsusei/blob/main/03.md)
+  - TrelloのBacklogリストに思いつく限りの作業のカードを追加
+- A1, A2, Bは6/2(水)1コマ目、Cは6/4(金)1コマ目に発表とヒアリング
+
 
 
 ## 4週目
