@@ -6,11 +6,21 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
-## 6週目
+## 7週目
+**6月末までに、企画の楽しさを確認することを目的とした試遊版の完成を目指す**
+
 ### 話題
 - [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
 
 ### 予定
+- 各チームの作業確認
+- 作業を進める
+
+## 6週目
+### 話題
+- [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
+
+### 内容
 - 発表順を決める
 - 開始後30分から発表開始
 - 発表後は作業を進めながら、開発項目、作業スケジュール、各自の担当などの確認
