@@ -12,6 +12,9 @@
 ### 話題
 - [Indie Games Festival 2021の紹介オンラインイベント 6/4(金) 17:00](https://youtu.be/gWgEO_V0VmY)
 
+### BlenderはPortable版ならインストール不要
+https://blender.org/download/ を開いて、`macOS, Linux, and other versions`ボタンをクリックして、`Windows Portable(.zip)`をダウンロードして、適当な場所に展開する。
+
 ### 予定
 - 作業と質疑応答
   - わからないエラーが出た
