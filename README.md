@@ -20,7 +20,7 @@ https://blender.org/download/ を開いて、`macOS, Linux, and other versions`�
   - わからないエラーが出た
   - データの形式はどれがいいのかわからない
   - 実装方法のヒントが欲しい
-  - などあればご質問ください
+  - などあれば[こちら](https://meet.google.com/wzp-yrcx-drx)で画面共有をしてご質問ください
 - TrelloのTodoリストなどは常に最新の状態にしておく
 
 ## 6週目
