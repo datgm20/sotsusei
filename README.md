@@ -6,6 +6,18 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
+## 8週目
+
+### 予定
+- 作業と質疑応答
+  - わからないエラーが出た
+  - データの形式はどれがいいのかわからない
+  - 実装方法のヒントが欲しい
+  - などあれば[こちら](https://meet.google.com/wzp-yrcx-drx)で画面共有をしてご質問ください
+- TrelloのTodoリストなどは常に最新の状態にしておく
+
+
+
 ## 7週目
 **6月末までに、企画の楽しさを確認することを目的とした試遊版の完成を目指す**
 
@@ -15,13 +27,14 @@
 ### BlenderはPortable版ならインストール不要
 https://blender.org/download/ を開いて、`macOS, Linux, and other versions`ボタンをクリックして、`Windows Portable(.zip)`をダウンロードして、適当な場所に展開する。
 
-### 予定
+### 内容
 - 作業と質疑応答
   - わからないエラーが出た
   - データの形式はどれがいいのかわからない
   - 実装方法のヒントが欲しい
   - などあれば[こちら](https://meet.google.com/wzp-yrcx-drx)で画面共有をしてご質問ください
 - TrelloのTodoリストなどは常に最新の状態にしておく
+- ダメージ処理
 
 ## 6週目
 ### 話題
