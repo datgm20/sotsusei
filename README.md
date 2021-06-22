@@ -6,7 +6,11 @@
 - [参考URL](https://github.com/datgm20/sotsusei/blob/main/URLs.md)
 - 講義日程 [水曜日](https://github.com/datgm21/design/blob/main/wed.md) [金曜日](fri.md)
 
-## 8週目
+## 8, 9週目
+
+### 今後の日程
+- 作業 6/23(水), 25(金), 30(水)
+- 7/2(金)2限目、4限目に試遊会
 
 ### 予定
 - [ノベルス学科へのシナリオ相談について](https://github.com/datgm20/sotsusei/wiki/%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E7%99%BA%E6%B3%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
