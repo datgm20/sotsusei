@@ -8,7 +8,7 @@
 
 ## 参考資料
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-- [Unity用の素材をMayaで作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
+- [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 
@@ -165,7 +165,7 @@ https://blender.org/download/ を開いて、`macOS, Linux, and other versions`�
   - 参考：[My Nintendo Store](https://store-jp.nintendo.com/)のランキングトップから紹介画像を眺める
 - データ作成の手引き
   - 命名規則 [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-  - 3Dデータ [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
+  - 3Dデータ [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
   - 2Dデータ [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 
 #### 作業
