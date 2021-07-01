@@ -13,6 +13,8 @@
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 
 ## 10週目
+### 話題
+- [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
 ### 1コマ目 試遊会準備
 - 試遊できるものをPC向けにビルド
