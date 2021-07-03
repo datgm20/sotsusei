@@ -12,9 +12,23 @@
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 
-## 10週目
+## 11週目
 ### 話題
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
+
+### 予定
+- チームミーティングの準備
+  - 以下の状況を簡潔に説明できるような素材をSlackのチーム用のチャンネルに貼る
+    - プログラマー：試遊会までに制作した項目の箇条書き
+    - ゲームCG：これまでに制作したグラフィックの素材やスクリーンショットを貼り付け
+  - TrelloのBacklogリストとTODOリストに、DATフェスタに向けた開発項目をカードにして作成
+    - 締め切りと担当者も可能な限り設定する
+- 金曜日チームミーティング
+  - Bチーム　金曜日午前
+  - その他　金曜日午後
+
+
+## 10週目
 
 ### 1コマ目 試遊会準備
 - 試遊できるものをPC向けにビルド
