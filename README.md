@@ -13,6 +13,13 @@
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 
+### シェーダー関連
+- [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
+- [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
+- [Unity Learning Material. VFX Graph](https://learning.unity3d.jp/tag/vfx-graph/)
+- [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
+- [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
+
 ## 11週目
 ### 話題
 - [paiza開発日誌. コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック](https://paiza.hatenablog.com/entry/2021/07/05/130000)
