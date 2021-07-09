@@ -19,6 +19,7 @@
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
 ### 予定
+- [DATフェスタに向けたキックオフミーティング](https://docs.google.com/document/d/171iDBhVELqq18CW1cPafQ1KHmrwxXvlgMD1EC-HQlh0/)
 - チームミーティングの準備
   - 以下の状況を簡潔に説明できるような素材をSlackの自分のチームのチャンネルに貼る
     - プログラマー：試遊会までに制作した項目の箇条書き
