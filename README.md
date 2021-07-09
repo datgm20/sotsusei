@@ -25,7 +25,7 @@
 - [paiza開発日誌. コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック](https://paiza.hatenablog.com/entry/2021/07/05/130000)
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
-### 予定
+### 内容
 - [DATフェスタに向けたキックオフミーティング](https://docs.google.com/document/d/171iDBhVELqq18CW1cPafQ1KHmrwxXvlgMD1EC-HQlh0/)
 - チームミーティングの準備
   - 以下の状況を簡潔に説明できるような素材をSlackの自分のチームのチャンネルに貼る
@@ -36,8 +36,6 @@
 - 金曜日チームミーティング
   - Bチーム　金曜日午前
   - その他　金曜日午後
-
-### 済
 - Slackのチャンネル名をわかりやすいものに変更
   - Slackを開く
   - チーム用のチャンネルを右クリック
