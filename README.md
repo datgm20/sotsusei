@@ -20,10 +20,36 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## DATフェスタまでの日程
+
+|回数|日程|備考|
+|-:|:-:|:-|
+|12|7/14, 16|作業|
+|13|7/21, 30|作業|
+|夏休み|
+|14|9/1, 3|作業|
+|15|9/8, 10|試遊会|
+|前期終わり<br>後期|
+|1|10/6, 8|作業|
+|2|10/13, 15|作業|
+|3|10/20, 22|β版|
+|4|10/27, 29|展示版ビルド|
+|5|-, 11/5|展示準備|
+|-|11/12, 13|DATフェスタ|
+
+
+## 12,13週目
+### 話題
+- [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
+
+
+### 予定
+- 夏休み明けの2週で、
+
+
 ## 11週目
 ### 話題
 - [paiza開発日誌. コードが書ければいい」だけじゃない！エンジニアを目指す人向け基礎テクニック](https://paiza.hatenablog.com/entry/2021/07/05/130000)
-- [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
 ### 内容
 - [DATフェスタに向けたキックオフミーティング](https://docs.google.com/document/d/171iDBhVELqq18CW1cPafQ1KHmrwxXvlgMD1EC-HQlh0/)
