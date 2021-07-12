@@ -22,21 +22,71 @@
 
 ## DATフェスタまでの日程
 
-|回数|日程|備考|
-|-:|:-:|:-|
-|12|7/14, 16|作業|
-|13|7/21, 30|作業|
-|夏休み|
-|14|9/1, 3|作業|
-|15|9/8, 10|試遊会|
-|前期終わり<br>後期|
-|1|10/6, 8|作業|
-|2|10/13, 15|作業|
-|3|10/20, 22|β版|
-|4|10/27, 29|展示版ビルド|
-|5|-, 11/5|展示準備|
-|-|11/12, 13|DATフェスタ|
-
+<table>
+<thead>
+<tr>
+<th align="right">回数</th>
+<th align="center">日程</th>
+<th align="left">備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">12</td>
+<td align="center">7/14, 16</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="center">7/21, 30</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td colspan="3" align="center">夏休み</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="center">9/1, 3</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="center">9/8, 10</td>
+<td align="left">試遊会</td>
+</tr>
+<tr>
+<td colspan="3" align="center">後期</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="center">10/6, 8</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="center">10/13, 15</td>
+<td align="left">作業</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="center">10/20, 22</td>
+<td align="left">β版</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="center">10/27, 29</td>
+<td align="left">展示版ビルド</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="center">-, 11/5</td>
+<td align="left">展示準備</td>
+</tr>
+<tr>
+<td align="center" colspan=3>11/12, 13 DATフェスタ</td>
+</tr>
+</tbody>
+</table>
 
 ## 12,13週目
 ### 話題
