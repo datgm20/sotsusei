@@ -90,6 +90,7 @@
 
 ## 12,13週目
 ### 話題
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
 
