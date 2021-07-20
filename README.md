@@ -32,8 +32,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="right">12</td>
-<td align="center">7/14, 16</td>
+  <td align="right"><s>12</s></td>
+  <td align="center"><s>7/14, 16</s></td>
 <td align="left">作業</td>
 </tr>
 <tr>
@@ -90,6 +90,7 @@
 
 ## 12,13週目
 ### 話題
+- [ClusterGAMEJAM 2021 in SUMMER](https://www.contest.cluster.mu/gamejam2021summer-home)
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
 
