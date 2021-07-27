@@ -90,6 +90,7 @@
 
 ## 12,13週目
 ### 話題
+- [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
 - [ClusterGAMEJAM 2021 in SUMMER](https://www.contest.cluster.mu/gamejam2021summer-home)
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 - [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
