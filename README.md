@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td align="right">13</td>
-<td align="center">7/21, 30</td>
+  <td align="center"><s>7/21,</s> 30</td>
 <td align="left">作業</td>
 </tr>
 <tr>
@@ -47,12 +47,12 @@
 <tr>
 <td align="right">14</td>
 <td align="center">9/1, 3</td>
-<td align="left">作業</td>
+<td align="left">試遊会準備</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td align="center">9/8, 10</td>
-<td align="left">試遊会</td>
+<td align="left">最初の2コマで試遊会。残りの2コマでDATフェスタ版の仕様決定</td>
 </tr>
 <tr>
 <td colspan="3" align="center">後期</td>
