@@ -12,6 +12,7 @@
 - [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
 - [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
+- [2020年度のノベル作品の例](https://github.com/datgm20/sotsusei/wiki/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB)
 
 ### シェーダー関連
 - [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
