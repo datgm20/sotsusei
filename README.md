@@ -89,6 +89,29 @@
 </tbody>
 </table>
 
+## 14週目(9/1, 3)
+
+### 話題
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
+  - [1年生作品](https://game.creators-guild.com/gck2021/2247/)
+
+### 前期課題 作業報告レポートと最新ビルドの提出
+
+[課題詳細](https://docs.google.com/document/d/11NO92NxVOsNav0A90cvFeWJbXkf3zVAOLIKjlESxbMI/)の指示に従って、以下を提出する。
+
+- 作成したグラフィックや開発したプログラムの機能を簡潔にまとめた報告書
+- 9/3(金)時点での最新のビルドファイル一式
+
+### 締め切り
+- 9/3(金) 16:10 までに提出されたもので合否判定
+- 9/10(金) 16:10 まで更新可能。ボーナス点対象
+
+### 15週目予定
+- 後期に向けて作業
+- 9/3までに仕上がらなかった課題があれば仕上げる
+
+
+
 ## 12,13週目
 ### 話題
 - [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
