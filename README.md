@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td align="right">13</td>
-  <td align="center"><s>7/21,</s> 30</td>
+  <td align="center"><s>7/21, 30</s></td>
 <td align="left">作業</td>
 </tr>
 <tr>
