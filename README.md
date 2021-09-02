@@ -48,12 +48,12 @@
 <tr>
 <td align="right">14</td>
 <td align="center">9/1, 3</td>
-<td align="left">試遊会準備</td>
+<td align="left">前期作業のとりまとめと報告</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td align="center">9/8, 10</td>
-<td align="left">最初の2コマで試遊会。残りの2コマでDATフェスタ版の仕様決定</td>
+<td align="left">試遊会用ビルドの準備と作成</td>
 </tr>
 <tr>
 <td colspan="3" align="center">後期</td>
@@ -61,7 +61,7 @@
 <tr>
 <td align="right">1</td>
 <td align="center">10/6, 8</td>
-<td align="left">作業</td>
+<td align="left">1. 試遊会準備 / 2. 試遊会 / 3,4. DATフェスタ版の仕様決定</td>
 </tr>
 <tr>
 <td align="right">2</td>
