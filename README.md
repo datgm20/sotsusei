@@ -91,7 +91,9 @@
 
 ## 14週目(9/1, 3)
 
-質問の際は、[こちら](https://meet.google.com/wzp-yrcx-drx)に画面共有をしてください。
+質問の際は、[こちら](https://meet.google.com/wzp-yrcx-drx)に画面共有をしてから声をかけてください。
+
+Google meetが60分で切れてそれに気づいていない可能性があるので、会議室に入れない場合はお知らせください。
 
 ### 話題
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
