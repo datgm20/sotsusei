@@ -91,6 +91,8 @@
 
 ## 14週目(9/1, 3)
 
+質問の際は、[こちら](https://meet.google.com/wzp-yrcx-drx)に画面共有をしてください。
+
 ### 話題
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
   - [1年生作品](https://game.creators-guild.com/gck2021/2247/)
