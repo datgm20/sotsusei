@@ -33,35 +33,9 @@
 </thead>
 <tbody>
 <tr>
-  <td align="right"><s>12</s></td>
-  <td align="center"><s>7/14, 16</s></td>
-<td align="left">作業</td>
-</tr>
-<tr>
-<td align="right">13</td>
-  <td align="center"><s>7/21, 30</s></td>
-<td align="left">作業</td>
-</tr>
-<tr>
-<td colspan="3" align="center">夏休み</td>
-</tr>
-<tr>
-<td align="right">14</td>
-  <td align="center"><s>9/1, 3</s></td>
-<td align="left">前期作業のとりまとめと報告</td>
-</tr>
-<tr>
-<td align="right">15</td>
-  <td align="center"><s>9/8, </s>10</td>
-<td align="left">試遊会用ビルドの準備と作成</td>
-</tr>
-<tr>
-<td colspan="3" align="center">後期</td>
-</tr>
-<tr>
 <td align="right">1</td>
 <td align="center">10/6, 8</td>
-<td align="left">1. 試遊会準備 / 2. 試遊会 / 3,4. DATフェスタ版の仕様決定</td>
+<td align="left">1. 試遊会準備 / 2. 試遊会と打ち合わせ / 3,4. DATフェスタ版の仕様決定と開発</td>
 </tr>
 <tr>
 <td align="right">2</td>
@@ -88,6 +62,16 @@
 </tr>
 </tbody>
 </table>
+
+## 後期1週目(10/6, 8)
+### 予定
+1. 試遊会準備。全員のデータを集めてビルド
+2. 試遊会 / DATフェスタ版の仕様検討
+3. DATフェスタ版の仕様決定
+4. 開発
+
+
+---
 
 ## 15週目(9/8, 10)
 質問は [こちら](https://meet.google.com/wzp-yrcx-drx) に画面共有をしてから声をかけてください。
