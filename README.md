@@ -34,7 +34,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td align="center">10/6, 8</td>
+  <td align="center"><s>10/6, 8</s></td>
 <td align="left">1. 試遊会準備 / 2. 試遊会と打ち合わせ / 3,4. DATフェスタ版の仕様決定と開発</td>
 </tr>
 <tr>
