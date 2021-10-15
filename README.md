@@ -67,6 +67,7 @@
 ### 予定
 - 開発作業 / DAT版の残り作業の確認
 - 最新版をビルドして `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
+- [ディッシューティング打ち合わせ](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)
 
 ## 後期1週目(10/6, 8)
 ### 内容
