@@ -63,8 +63,9 @@
 </tbody>
 </table>
 
-## 後期2週目(10/13, 15)
-### 予定
+
+## 後期2,3週目(10/13, 15, 20, 22)
+### 内容
 - 開発作業 / DAT版の残り作業の確認
 - 最新版をビルドして `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
 - [ディッシューティング打ち合わせ](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)
