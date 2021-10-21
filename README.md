@@ -71,6 +71,7 @@
 ### 最新ビルドの評価
 - 2日目の1コマ目の最後に、最新版をビルドして `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
 - 提出された実行ファイルに基づいて、必須の作業、やるべき作業、余裕があればやると良い作業について通達
+  - [評価表](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
 
 ### 予定
 - 開発作業 / DAT版の残り作業の確認
