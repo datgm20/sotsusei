@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-  <td align="center"><s>10/20,</s> 22</td>
+  <td align="center"><s>10/20, 22</s></td>
 <td align="left">β版</td>
 </tr>
 <tr>
