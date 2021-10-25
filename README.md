@@ -63,28 +63,48 @@
 </tbody>
 </table>
 
+## 後期4週目(10/27, 29)
+### 予定
+- 展示の想定
+- 開発作業
+- 最後に最新ビルドを `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
 
-## 後期2,3週目(10/13, 15, 20, 22)
 ### 学校ロゴ
 - `Z:\student\LOGO`
-
-### 最新ビルドの評価
-- 2日目の1コマ目の最後に、最新版をビルドして `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
-- 提出された実行ファイルに基づいて、必須の作業、やるべき作業、余裕があればやると良い作業について通達
-  - [作業項目リスト](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
-
-### 予定
-- 開発作業 / DAT版の残り作業の確認
-- 以下について検討を開始。制作は11/5でよい
-  - 開発スタッフのクレジットの整理
-  - インストカードの制作、印刷
-
 
 ### ゲームのインストラクションカードの作成
 - [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
   - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1) 
 - A4カラー 1ページ
 - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+
+### 前回までの資料
+- [作業項目リスト(10/22)](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
+- [ディッシューティング打ち合わせ(10/15)](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)のメモ
+
+## 後期2,3週目(10/13, 15, 20, 22)
+
+### 最新ビルドの評価
+- 2日目の1コマ目の最後に、最新版をビルドして `Z:\student\卒業制作\試遊版後期` 以下の作品フォルダー内に提出
+- 提出された実行ファイルに基づいて、必須の作業、やるべき作業、余裕があればやると良い作業について通達 
+  - [作業項目リスト](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
+
+### 内容
+- 開発作業 / DAT版の残り作業の確認
+- 以下について検討を開始。制作は11/5でよい 
+  - 開発スタッフのクレジットの整理
+  - インストカードの制作、印刷
+
+### ゲームのインストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1) 
+- A4カラー 1ページ
+- ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+
+### 最新ビルドの提出
+- 2日目の1コマ目の最後に、最新版をビルドして
+- 提出された実行ファイルに基づいて、必須の作業、やるべき作業、余裕があればやると良い作業について通達
+  - [作業項目リスト](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
 
 ### 10/15
 - [ディッシューティング打ち合わせ](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)のメモ
