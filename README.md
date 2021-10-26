@@ -64,7 +64,7 @@
 </table>
 
 ## 後期4週目(10/27, 29)
-### ツール
+### シナリオがあるチーム向けツール
 - [小説推敲補助ソフト「Novel Supporter」](https://crocro.com/pc/soft/novel_supporter/)
   - 「５．文章警告」「６．言い回し確認」「表記ゆれ確認」あたりを試してみる
 
