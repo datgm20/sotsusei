@@ -67,6 +67,7 @@
 ### シナリオがあるチーム向けツール
 - [小説推敲補助ソフト「Novel Supporter」](https://crocro.com/pc/soft/novel_supporter/)
   - 「５．文章警告」「６．言い回し確認」「表記ゆれ確認」あたりを試してみる
+  - セリフにはあまり効果なかったので参考までに
 
 ### 予定
 - 展示の想定
@@ -91,6 +92,8 @@
 - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
 
 ### 前回までの資料
+- [GennsouRPGのセリフの修正提案](https://docs.google.com/document/d/1AcngpS7xtX2auap-0EYPZpvyH8e34OLbi-3ZN89anns/)
+  - 全てこの通りに直す必要はありません。参考までに
 - [作業項目リスト(10/22)](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
 - [ディッシューティング打ち合わせ(10/15)](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)のメモ
 
