@@ -64,6 +64,18 @@
 </table>
 
 ## 後期4週目(10/27, 29)
+
+### 教習所ドライブ
+- コースと車が完成。それぞれ以下にある
+  - コース `Z:\student\卒業制作\DriveSimulator\kaku\1029`
+  - 車 `Z:\student\卒業制作\DriveSimulator\car\car1.fbx`
+- コースについて
+  - 矢印は別オブジェクトになっているので非表示可能
+  - staticにして、Mesh Colliderで当たり判定をつける
+- 車
+  - ボディやガラス部分はマテリアルを取り出して、MetallicやSmoothnessを調整
+  - タイヤはオブジェクトが分かれているので、回転や舵角の設定が可能
+
 ### シナリオがあるチーム向けツール
 - [小説推敲補助ソフト「Novel Supporter」](https://crocro.com/pc/soft/novel_supporter/)
   - 「５．文章警告」「６．言い回し確認」「表記ゆれ確認」あたりを試してみる
