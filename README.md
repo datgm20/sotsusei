@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-  <td align="center">10/<s>27,</s> 29</td>
+  <td align="center"><s>10/27, 29</s></td>
 <td align="left">展示版ビルド</td>
 </tr>
 <tr>
