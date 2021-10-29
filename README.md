@@ -67,7 +67,7 @@
 
 ### 教習所ドライブ
 - コースと車が完成。それぞれ以下にある
-  - コース `Z:\student\卒業制作\DriveSimulator\kaku\1029`
+  - コース `Z:\student\卒業制作\DriveSimulator\kaku\1029` フォルダー以下にテクスチャとfbx
   - 車 `Z:\student\卒業制作\DriveSimulator\car\car1.fbx`
 - コースについて
   - 矢印は別オブジェクトになっているので非表示可能
