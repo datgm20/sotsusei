@@ -65,23 +65,7 @@
 
 ## 後期4, 5週目(10/27, 29, 11/5)
 
-### 教習所ドライブ
-- コースと車が完成。それぞれ以下にある
-  - コース `Z:\student\卒業制作\DriveSimulator\kaku\1029` フォルダー以下にテクスチャとfbx
-  - 車 `Z:\student\卒業制作\DriveSimulator\car\car1.fbx`
-- コースについて
-  - 矢印は別オブジェクトになっているので非表示可能
-  - staticにして、Mesh Colliderで当たり判定をつける
-- 車
-  - ボディやガラス部分はマテリアルを取り出して、MetallicやSmoothnessを調整
-  - タイヤはオブジェクトが分かれているので、回転や舵角の設定が可能
-
-### シナリオがあるチーム向けツール
-- [小説推敲補助ソフト「Novel Supporter」](https://crocro.com/pc/soft/novel_supporter/)
-  - 「５．文章警告」「６．言い回し確認」「表記ゆれ確認」あたりを試してみる
-  - セリフにはあまり効果なかったので参考までに
-
-### 内容
+### 予定
 - 展示の想定
   - 教室内のレイアウトを考える
   - はじめてゲームを遊ぶお客さんへのゲームの紹介や操作説明を想定する
@@ -108,6 +92,24 @@
   - 全てこの通りに直す必要はありません。参考までに
 - [作業項目リスト(10/22)](https://docs.google.com/document/d/1SZOXiSIMBwecr4CY3EI1dCtn4tNmHJLSHShnGUbnQeQ/)
 - [ディッシューティング打ち合わせ(10/15)](https://docs.google.com/document/d/1UOlAm2fM6C3zwSJvWpl-APZSuVdZlVTi8PxXg2UyaDk/)のメモ
+
+
+
+### 教習所ドライブ
+- コースと車が完成。それぞれ以下にある
+  - コース `Z:\student\卒業制作\DriveSimulator\kaku\1029` フォルダー以下にテクスチャとfbx
+  - 車 `Z:\student\卒業制作\DriveSimulator\car\car1.fbx`
+- コースについて
+  - 矢印は別オブジェクトになっているので非表示可能
+  - staticにして、Mesh Colliderで当たり判定をつける
+- 車
+  - ボディやガラス部分はマテリアルを取り出して、MetallicやSmoothnessを調整
+  - タイヤはオブジェクトが分かれているので、回転や舵角の設定が可能
+
+### シナリオがあるチーム向けツール
+- [小説推敲補助ソフト「Novel Supporter」](https://crocro.com/pc/soft/novel_supporter/)
+  - 「５．文章警告」「６．言い回し確認」「表記ゆれ確認」あたりを試してみる
+  - セリフにはあまり効果なかったので参考までに
 
 ## 後期2,3週目(10/13, 15, 20, 22)
 
