@@ -43,6 +43,7 @@
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクをSlackのチームチャンネルに貼り付ける
   - チームメンバーで話し合いながら、気づいたことやコメントをGoogleドキュメントに書き込む
   - 参考 [デジゲー博出展報告](https://am1tanaka.hatenablog.com/#%E4%BB%8A%E5%9B%9E%E3%81%AE%E5%B1%95%E7%A4%BA%E3%81%A7%E6%B0%97%E4%BB%98%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8)
+  - [講師が気になったところ](https://docs.google.com/document/d/18TBc5TaNyidK2G9ofx1tliswUjVAV71QwMfe8-kDC00/)
 - 提出されたビルドを確認して、今後の方向性を検討
 
 
