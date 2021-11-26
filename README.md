@@ -33,6 +33,7 @@
       - [MAGNOLIA](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - [Hamu Escape](https://github.com/datgm20/sotsusei/wiki/HamuEscape-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - Resource Collectorは[Web公開版最小要件](https://github.com/datgm20/sotsusei/wiki/Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)の一覧の通り
+      - [ディッシューティング](https://github.com/datgm20/sotsusei/wiki/%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
 - Web公開のための情報と画像
   - 参考 https://datgm20.github.io/works/
   - 上記のページを作成している。`Z:\student\卒業制作\DATフェスタ版ビルド`フォルダーの作品名フォルダー内に`web`フォルダーを作成して、以下のものを提出
