@@ -31,6 +31,7 @@
   - 公開にあたり不足点のリストアップ(原則、Web公開版までは講師は直接手を入れない)
     - [Web公開版最小要件](https://github.com/datgm20/sotsusei/wiki/Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - [MAGNOLIA](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
+        - [仕様](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA%E4%BB%95%E6%A7%98)
       - [Hamu Escape](https://github.com/datgm20/sotsusei/wiki/HamuEscape-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - Resource Collectorは[Web公開版最小要件](https://github.com/datgm20/sotsusei/wiki/Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)の一覧の通り
       - [ディッシューティング](https://github.com/datgm20/sotsusei/wiki/%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
