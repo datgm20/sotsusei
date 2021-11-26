@@ -33,7 +33,12 @@
       - [MAGNOLIA](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - [Hamu Escape](https://github.com/datgm20/sotsusei/wiki/HamuEscape-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)
       - Resource Collectorは[Web公開版最小要件](https://github.com/datgm20/sotsusei/wiki/Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)の一覧の通り
-- Web公開
+- Web公開のための情報と画像
+  - 参考 https://datgm20.github.io/works/
+  - 上記のページを作成している。`Z:\student\卒業制作\DATフェスタ版ビルド`フォルダーの作品名フォルダー内に`web`フォルダーを作成して、以下のものを提出
+    - 見出しに使うゲーム画面のスクリーンショット(ビルドしたものを実行して、[PrtSc]キーで画面イメージをコピー、ペイントを起動して貼り付けて、`game-image.png`や`game-image.jpg`のファイル名で保存したもの
+    - インストカードの画像データ(PowerPointの場合はpngかjpgにして出力)したものを`inst.png`や`inst.jpg`のファイル名で保存したもの
+    - `credits.txt`という名前でテキストファイルを作成して、音やフォントなど、使用した素材の著作権者名とURLを書く
 - 会話シーンの組み込みなどブラッシュアップ
 - ポートフォリオの充実
 
