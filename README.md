@@ -25,6 +25,8 @@
 
 [制作中の公開ページ](https://datgm20.github.io/works/)
 
+[ティラノスクリプトV5 パーサー作成メモ](https://github.com/tanakaedu/TyranoScriptV5Perser)
+
 ### 予定
 - 先週の各チームのまとめと[講師が気になったところ](https://docs.google.com/document/d/18TBc5TaNyidK2G9ofx1tliswUjVAV71QwMfe8-kDC00/)を元に、今後の作業について検討
 - 12/3 3時限目に最新版を提出(Resource Collectorはモデルの組み込みができてからでよい)
