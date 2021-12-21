@@ -21,7 +21,7 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期6週目～9週目(11/24, 26, 12/1, 3, 8, 10, 15, 17)
+## 後期6週目～10週目(11/24, 26, 12/1, 3, 8, 10, 15, 17, 22, 24)
 
 ### 話題
 - [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
