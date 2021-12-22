@@ -23,6 +23,8 @@
 
 ## 後期6週目～10週目(11/24, 26, 12/1, 3, 8, 10, 15, 17, 22, 24)
 
+- [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+
 ### 話題
 - [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
 
