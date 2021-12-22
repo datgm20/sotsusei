@@ -37,8 +37,8 @@
   - MAGNOLIA
     - タイトルの動作削除
     - テクスチャサイズの調整(特にボス敵)
-  - HamuEscape
-    - テクスチャサイズを適切な大きさに見直す
+  - HamuEscape：最小要件 完了
+    - 完了：テクスチャサイズを適切な大きさに見直す
 - 先週の各チームのまとめと[講師が気になったところ](https://docs.google.com/document/d/18TBc5TaNyidK2G9ofx1tliswUjVAV71QwMfe8-kDC00/)を元に、今後の作業について検討
 - 12/3 3時限目に最新版を提出(Resource Collectorはモデルの組み込みができてからでよい)
   - ビルドしたものを `Z:\student\卒業制作\1203ビルド` フォルダー内に作品名のフォルダーを作成して、実行ファイル一式をコピー
