@@ -26,17 +26,17 @@
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 
 ### チームごとの残りの作業
-- HamuEscape
-  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
-- MAGNOLIA
-  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
-  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
 - DriveSimulator
   - [ ] 実行ファイル、サムネイル、インストカード画像データ
 - ディッシューティング
   - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
   - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
   - [ ] オープニングデモ
+- HamuEscape
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
+- MAGNOLIA
+  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
 - Resource Collector
   - [ ] 画像を組み込んだ実行ファイルの提出
   - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
