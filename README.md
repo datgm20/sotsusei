@@ -22,7 +22,7 @@
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
 ## 後期6週目～10週目(11/24, 26, 12/1, 3, 8, 10, 15, 17, 22, 24)
-
+- [制作中の公開ページ](https://datgm20.github.io/works/)
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 
 ### チームごとの残りの作業
@@ -62,8 +62,6 @@
 
 ### 話題
 - [銀座Unityもくもく会](https://weekend-unity.connpass.com/event/232906/)
-
-[制作中の公開ページ](https://datgm20.github.io/works/)
 
 [ティラノスクリプトV5 パーサー作成メモ](https://github.com/tanakaedu/TyranoScriptV5Perser)
 
