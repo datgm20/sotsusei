@@ -21,6 +21,35 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 後期11週目(1/5, 7)
+- [制作中の公開ページ](https://datgm20.github.io/works/)
+- [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+
+### 今後のテーマ
+- 作品のWeb公開ととりまとめ
+- DVDラベルとパッケージ制作
+- ポートフォリオやデモリール
+
+### 作品ごとの残りの作業
+- DriveSimulator
+  - [ ] 容量削減
+  - [ ] インストカード画像データ
+- ディッシューティング
+  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
+  - [ ] オープニングデモ
+- HamuEscape
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
+- MAGNOLIA
+  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
+- Resource Collector
+  - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
+
+### 提出先
+(後ほど記入)
+
+
 ## 後期6週目～10週目(11/24, 26, 12/1, 3, 8, 10, 15, 17, 22, 24)
 - [制作中の公開ページ](https://datgm20.github.io/works/)
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
