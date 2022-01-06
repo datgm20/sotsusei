@@ -21,7 +21,7 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 後期11週目(1/5, 7)
+## 後期11, 12週目(1/5, 7, 12, 14)
 - [制作中の公開ページ](https://datgm20.github.io/works/)
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 
