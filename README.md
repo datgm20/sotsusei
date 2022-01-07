@@ -48,9 +48,9 @@
   - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
   - [ ] DVDパッケージとラベルの印刷 10セット
 - MAGNOLIA
-  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
   - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
   - [ ] DVDパッケージとラベルの印刷 9セット
+  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
 - Resource Collector
   - [ ] DVDパッケージとラベルの印刷データ(締め切り 1/14)
   - [ ] DVDパッケージとラベルの印刷 9セット
