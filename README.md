@@ -21,6 +21,31 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 後期13週目(1/19, 21)
+- [作品紹介ページ](https://datgm20.github.io/works/)
+- [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+
+## 予定
+- DVDラベルとパッケージの印刷
+  - 提出されたデータのうち、不備のないものから印刷開始
+
+### 作品ごとの残りの作業
+- DriveSimulator
+  - [ ] インストカード画像データ
+  - DVDラベルとパッケージデータは不要
+- ディッシューティング
+  - [ ] DVDパッケージとラベルの印刷 11セット
+  - [ ] オープニングデモ
+    - 1/19 アフレコ
+    - クレジット画面の追加
+- HamuEscape
+  - [ ] DVDパッケージとラベルの印刷 10セット
+- MAGNOLIA
+  - [ ] DVDパッケージとラベルの印刷 9セット
+  - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
+- Resource Collector
+  - [ ] DVDパッケージとラベルの印刷 9セット
+
 ## 後期11, 12週目(1/5, 7, 12, 14)
 - [作品紹介ページ](https://datgm20.github.io/works/)
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
