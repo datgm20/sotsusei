@@ -26,8 +26,11 @@
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 
 ## 予定
-- DVDラベルとパッケージの印刷
-  - 提出されたデータのうち、不備のないものから印刷開始
+- DVDラベルとパッケージの印刷(午後からA602教室にて以下の順で印刷予定)
+  1. Resource Collector
+  1. Hamu Escape
+  1. MAGNOLIA
+  1. ディッシューティング
 
 ### 作品ごとの残りの作業
 - DriveSimulator
