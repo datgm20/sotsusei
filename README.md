@@ -33,9 +33,6 @@
   1. ディッシューティング
 
 ### 作品ごとの残りの作業
-- DriveSimulator
-  - [ ] インストカード画像データ
-  - DVDラベルとパッケージデータは不要
 - ディッシューティング
   - [ ] DVDパッケージとラベルの印刷 11セット
   - [ ] オープニングデモ
@@ -48,6 +45,7 @@
   - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
 - Resource Collector
   - [ ] DVDパッケージとラベルの印刷 9セット
+- DriveSimulator(完了)
 
 ## 後期11, 12週目(1/5, 7, 12, 14)
 - [作品紹介ページ](https://datgm20.github.io/works/)
