@@ -39,12 +39,12 @@
     - 音声データのフォルダーの整理と共有
     - スクリーンショットを数枚作成
 - HamuEscape
-  - [ ] DVDパッケージとラベルの印刷 9セット
+  - [ ] DVDパッケージの印刷 9セット
 - MAGNOLIA
-  - [ ] DVDパッケージとラベルの印刷 8セット
+  - [ ] DVDパッケージの印刷 8セット
   - [ ] [実行ファイルの仕上げ](https://github.com/datgm20/sotsusei/wiki/MAGNOLIA-Web%E7%89%88%E6%9C%80%E5%B0%8F%E8%A6%81%E4%BB%B6)と提出
-- Resource Collector
-  - [ ] DVDパッケージとラベルの印刷 8セット
+- Resource Collector(完了)
+  - [x] DVDパッケージとラベルの印刷 8セット
 - DriveSimulator(完了)
 
 ## 後期11, 12週目(1/5, 7, 12, 14)
