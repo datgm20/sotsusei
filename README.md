@@ -27,10 +27,11 @@
 
 ## 予定
 - DVDラベルとパッケージの印刷(午後からA602教室にて以下の順で印刷予定)
-  1. Resource Collector
-  1. Hamu Escape
-  1. MAGNOLIA
   1. ディッシューティング
+  1. MAGNOLIA
+- 以下、完了。各自、自分の割り当てのパッケージ用紙のカット
+  - Resource Collector(完了)
+  - Hamu Escape(完了)
 
 ### 作品ごとの残りの作業
 - ディッシューティング
