@@ -28,9 +28,8 @@
 - [DVDパッケージとラベルのフォーマット](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 
 ## 予定
-- DVDラベルとパッケージの印刷(午後からA602教室にて以下の順で印刷予定)
-  1. MAGNOLIA
-- 以下、完了。各自、自分の割り当てのパッケージ用紙のカット
+- 完了
+  - MAGNOLIA(完了)
   - ディッシューティング(完了)
   - Resource Collector(完了)
   - Hamu Escape(完了)
