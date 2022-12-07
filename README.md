@@ -38,7 +38,7 @@
   - その他、DVDに書き込みたい自分のデータがあれば、それらも`DVDデータ`フォルダーにコピー。上限は**約4.7GByte**
 - 最終講評。創作活動継続の奨め
   - [日本ゲーム大賞2022. アマチュア部門](https://awards.cesa.or.jp/amateur/index.html)
-- [DVD書き込み](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md#dvd%E3%81%AE%E7%84%BC%E3%81%8D%E6%96%B9)
+- [DVD書き込み](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
   - 書き込みが完了したら、デスクトップの`DVDデータ`フォルダーは削除する
   - 配布する紙に指名を記入して、DVDに貼り付けて講師に提出。後日、パッケージが届いたら一式お渡しします
 - 試遊
